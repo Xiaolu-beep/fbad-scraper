@@ -1,0 +1,17 @@
+2026-02-19 23:20:46,371 | INFO | === Van Scraper Started ===
+2026-02-19 23:20:46,372 | INFO | ====== WebDriver manager ======
+2026-02-19 23:20:47,138 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-19 23:20:48,117 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-19 23:20:48,479 | INFO | Driver [C:\Users\Oisin\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-19 23:20:49,609 | INFO | Opening Facebook...
+2026-02-19 23:21:00,026 | INFO | Login page detected. Entering credentials...
+2026-02-19 23:21:24,807 | INFO | === Van Scraper Started ===
+2026-02-19 23:21:24,808 | INFO | ====== WebDriver manager ======
+2026-02-19 23:21:25,560 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-19 23:21:25,905 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-19 23:21:26,249 | INFO | Driver [C:\Users\Oisin\.wdm\drivers\chromedriver\win64\144.0.7559.133\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-19 23:21:27,410 | INFO | Opening Facebook...
+2026-02-19 23:21:34,662 | INFO | Login page detected. Entering credentials...
+2026-02-19 23:21:53,128 | INFO | Processing: https://www.facebook.com/marketplace/item/1991280048095762/
+2026-02-19 23:22:10,088 | INFO | Title: 2019 Mercedes-Benz sprinter
+2026-02-19 23:22:10,100 | INFO | Price: AU$24,990
