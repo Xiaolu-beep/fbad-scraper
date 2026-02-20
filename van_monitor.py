@@ -25,8 +25,7 @@ log = logging.getLogger(__name__)
 
 log.info("=== Van Scraper Started ===")
 
-EMAIL = "oisinmcgrath1916@gmail.com"
-PASS = "mateItisTimetoCrackaCookie2025^"
+EMAIL =
 
 urls = [
     "https://www.facebook.com/marketplace/item/1991280048095762/",
